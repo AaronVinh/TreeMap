@@ -4,7 +4,8 @@
 //
 //  Created by Aaron Vinh on 2/7/17.
 //  Copyright © 2017 Aaron Vinh. All rights reserved.
-//
+//  Based heavily on https://github.com/imranghory/treemap-squared javascript
+//  implementation of Treemap
 
 import Foundation
 
